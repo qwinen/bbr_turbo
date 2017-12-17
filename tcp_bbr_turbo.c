@@ -1,6 +1,4 @@
-/*tcp_bbr_turbo for kernel v4.14.x
- *Modify by qwinen
- *test version
+/*tcp_bbr_turbo for kernel v4.14.x Modify by qwinen
  */
 /* Bottleneck Bandwidth and RTT (BBR) congestion control
  *
